@@ -1,3 +1,4 @@
+package Cap_1;
 class Shffle1{
     public static void main(String[] args){
         int x=3;

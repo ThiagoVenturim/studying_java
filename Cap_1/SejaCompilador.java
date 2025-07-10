@@ -1,3 +1,4 @@
+package Cap_1;
 // A
 class Exercisela{
     public static void main(String[] args){

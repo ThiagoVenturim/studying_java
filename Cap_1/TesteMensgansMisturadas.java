@@ -1,3 +1,4 @@
+package Cap_1;
 class Test{
     public static void main(String[] args){
         int x = 0;

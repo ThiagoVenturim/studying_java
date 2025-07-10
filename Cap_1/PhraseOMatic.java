@@ -1,3 +1,4 @@
+package Cap_1;
 public class PhraseOMatic{
     public static void main(String[] args){
         String[] wordListOne={"agnostic", "opinionated", "voice activated", "haptically", "driven", "extensible", "reactive", "agent based", "functional", "AI enabled", "strongly typed"}; 
