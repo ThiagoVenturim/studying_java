@@ -1,4 +1,5 @@
 package Cap_2;
+
 class Dog{
     int size;
     String breed;

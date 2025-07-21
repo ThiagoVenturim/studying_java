@@ -1,4 +1,5 @@
 package Cap_2;
+
 // Arquivo: GuessGame.java
 class GuessGame {
     Player p1;
