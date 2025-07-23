@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Triangle",
+            "request": "launch",
+            "mainClass": "Triangle",
+            "projectName": "studying_java_16bf863b"
+        },
+        {
+            "type": "java",
             "name": "BooksTestDrive",
             "request": "launch",
             "mainClass": "BooksTestDrive",
