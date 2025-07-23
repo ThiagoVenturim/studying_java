@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BooksTestDrive",
+            "request": "launch",
+            "mainClass": "BooksTestDrive",
+            "projectName": "studying_java_16bf863b"
+        },
+        {
+            "type": "java",
             "name": "Dog",
             "request": "launch",
             "mainClass": "Cap_2.Dog",
