@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayListMagnet",
+            "request": "launch",
+            "mainClass": "Cap_6.ArrayListMagnet",
+            "projectName": "studying_java_16bf863b"
+        },
+        {
+            "type": "java",
             "name": "Triangle",
             "request": "launch",
             "mainClass": "Triangle",
