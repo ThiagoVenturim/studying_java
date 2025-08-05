@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "testeDriver",
+            "request": "launch",
+            "mainClass": "testeDriver",
+            "projectName": "studying_java_16bf863b"
+        },
+        {
+            "type": "java",
+            "name": "HerancaDoctor",
+            "request": "launch",
+            "mainClass": "HerancaDoctor",
+            "projectName": "studying_java_16bf863b"
+        },
+        {
+            "type": "java",
             "name": "ArrayListMagnet",
             "request": "launch",
             "mainClass": "Cap_6.ArrayListMagnet",
