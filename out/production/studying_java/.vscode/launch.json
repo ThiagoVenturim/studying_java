@@ -1,0 +1,184 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Jukebox10",
+      "request": "launch",
+      "mainClass": "Jukebox10",
+      "projectName": "studying_java_16bf863b"
+    },
+    {
+      "type": "java",
+      "name": "testeDriver",
+      "request": "launch",
+      "mainClass": "testeDriver",
+      "projectName": "studying_java_16bf863b"
+    },
+    {
+      "type": "java",
+      "name": "HerancaDoctor",
+      "request": "launch",
+      "mainClass": "HerancaDoctor",
+      "projectName": "studying_java_16bf863b"
+    },
+    {
+      "type": "java",
+      "name": "ArrayListMagnet",
+      "request": "launch",
+      "mainClass": "Cap_6.ArrayListMagnet",
+      "projectName": "studying_java_16bf863b"
+    },
+    {
+      "type": "java",
+      "name": "Triangle",
+      "request": "launch",
+      "mainClass": "Triangle",
+      "projectName": "studying_java_16bf863b"
+    },
+    {
+      "type": "java",
+      "name": "BooksTestDrive",
+      "request": "launch",
+      "mainClass": "BooksTestDrive",
+      "projectName": "studying_java_16bf863b"
+    },
+    {
+      "type": "java",
+      "name": "Dog",
+      "request": "launch",
+      "mainClass": "Cap_2.Dog",
+      "projectName": "studying_java_16bf863b"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "BottleSong",
+      "request": "launch",
+      "mainClass": "Cap_1.BottleSong",
+      "projectName": "studying_java_16bf863b"
+    },
+    {
+      "type": "java",
+      "name": "DooBee",
+      "request": "launch",
+      "mainClass": "Cap_1.DooBee",
+      "projectName": "studying_java_16bf863b"
+    },
+    {
+      "type": "java",
+      "name": "Loopy",
+      "request": "launch",
+      "mainClass": "Cap_1.Loopy",
+      "projectName": "studying_java_16bf863b"
+    },
+    {
+      "type": "java",
+      "name": "MyFirstApp",
+      "request": "launch",
+      "mainClass": "Cap_1.MyFirstApp",
+      "projectName": "studying_java_16bf863b"
+    },
+    {
+      "type": "java",
+      "name": "PhraseOMatic",
+      "request": "launch",
+      "mainClass": "Cap_1.PhraseOMatic",
+      "projectName": "studying_java_16bf863b"
+    },
+    {
+      "type": "java",
+      "name": "PoolPuzzleOne",
+      "request": "launch",
+      "mainClass": "Cap_1.PoolPuzzleOne",
+      "projectName": "studying_java_16bf863b"
+    },
+    {
+      "type": "java",
+      "name": "Shffle1",
+      "request": "launch",
+      "mainClass": "Cap_1.Shffle1",
+      "projectName": "studying_java_16bf863b"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Cap_1.Test",
+      "projectName": "studying_java_16bf863b"
+    },
+    {
+      "type": "java",
+      "name": "DogTestDrive",
+      "request": "launch",
+      "mainClass": "Cap_2.DogTestDrive",
+      "projectName": "studying_java_16bf863b"
+    },
+    {
+      "type": "java",
+      "name": "DrumkitTestDrive",
+      "request": "launch",
+      "mainClass": "Cap_2.DrumkitTestDrive",
+      "projectName": "studying_java_16bf863b"
+    },
+    {
+      "type": "java",
+      "name": "EchoTestDrive",
+      "request": "launch",
+      "mainClass": "Cap_2.EchoTestDrive",
+      "projectName": "studying_java_16bf863b"
+    },
+    {
+      "type": "java",
+      "name": "EpisodeTestDrive",
+      "request": "launch",
+      "mainClass": "Cap_2.EpisodeTestDrive",
+      "projectName": "studying_java_16bf863b"
+    },
+    {
+      "type": "java",
+      "name": "Launcher",
+      "request": "launch",
+      "mainClass": "Cap_2.Launcher",
+      "projectName": "studying_java_16bf863b"
+    },
+    {
+      "type": "java",
+      "name": "MovieTestDrive",
+      "request": "launch",
+      "mainClass": "Cap_2.MovieTestDrive",
+      "projectName": "studying_java_16bf863b"
+    },
+    {
+      "type": "java",
+      "name": "StreamingSongTestDrive",
+      "request": "launch",
+      "mainClass": "Cap_2.StreamingSongTestDrive",
+      "projectName": "studying_java_16bf863b"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/thiag/OneDrive/Área de Trabalho/Projetos/Livros/Use a Cabeça Java/studying_java",
+      "program": "c:/Users/thiag/OneDrive/Área de Trabalho/Projetos/Livros/Use a Cabeça Java/studying_java/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
