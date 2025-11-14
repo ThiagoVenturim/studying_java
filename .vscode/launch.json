@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SimpleGui",
+      "request": "launch",
+      "mainClass": "SimpleGui",
+      "projectName": "studying_java_16bf863b"
+    },
+    {
+      "type": "java",
+      "name": "SimpleGui1",
+      "request": "launch",
+      "mainClass": "SimpleGui1",
+      "projectName": "studying_java_16bf863b"
+    },
+    {
+      "type": "java",
       "name": "Jukebox10",
       "request": "launch",
       "mainClass": "Jukebox10",
